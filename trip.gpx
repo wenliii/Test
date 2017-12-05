@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.1" creator="gpxmake.js" xmlns="http://www.topografix.com/GPX/1/1">
+<metadata>
+	<name>One-Day-Trip</name>
+	<desc>casual-trip</desc>
+</metadata>
+<trk>
+<trkseg>
+	<trkpt>
+		<trkname>Singapore Zoo</trkname>
+		<lat>1.4043</lat>
+		<lon>103.7930</lon>
+		<address>80 Mandai Lake Rd, 729826</address>
+		<img>https://lh3.googleusercontent.com/proxy/Im6On2bRV-t7jxPrazlXHKaxHU5JKBCzlueC_RRFZDnNYIXKET-21XCxKANwsnSOBVQUb7tRFGm0L63Pqi6x_RkWoZS92iuHJTydLba6OTvOS6YNpE_5DVV-sIZVDMpXzZru2E3VQ2F7930tEYF0vzwKOp9h4Lg=w378-h251-k-no</img>
+		<extensions>
+			<gpxtpx:TrackPointExtension>
+				<gpxtpx:hr>94</gpxtpx:hr>
+			</gpxtpx:TrackPointExtension>
+		</extensions>
+	</trkpt>
+	<trkpt>
+		<trkname>Singapore Changi Airport</trkname>
+		<lat>1.3644</lat>
+		<lon>103.9915</lon>
+		<address>Airport Blvd</address>
+		<img>http://www.thefinder.com.sg/sites/default/files/singapore%20changi%20airport.jpg</img>
+		<extensions>
+			<gpxtpx:TrackPointExtension>
+				<gpxtpx:hr>94</gpxtpx:hr>
+			</gpxtpx:TrackPointExtension>
+		</extensions>
+	</trkpt>
+	<trkpt>
+		<trkname>Resorts World Sentosa</trkname>
+		<lat>1.2494</lat>
+		<lon>103.8303</lon>
+		<address>8 Sentosa Gateway, 098269</address>
+		<img>https://lh6.googleusercontent.com/-ozBzKqZBm2E/UpRTvnx0asI/AAAAAAAAACY/Ii8q1dYcmYIx1vn8OZbxVlMYo-gDvDQUwCLIBGAYYCw/w545-h251-k-no/</img>
+		<extensions>
+			<gpxtpx:TrackPointExtension>
+				<gpxtpx:hr>94</gpxtpx:hr>
+			</gpxtpx:TrackPointExtension>
+		</extensions>
+	</trkpt>
+	<trkpt>
+		<trkname>Singapore Changi Airport</trkname>
+		<lat>1.3644</lat>
+		<lon>103.9915</lon>
+		<address>Airport Blvd</address>
+		<img>http://www.thefinder.com.sg/sites/default/files/singapore%20changi%20airport.jpg</img>
+		<extensions>
+			<gpxtpx:TrackPointExtension>
+				<gpxtpx:hr>94</gpxtpx:hr>
+			</gpxtpx:TrackPointExtension>
+		</extensions>
+	</trkpt>
+</trkseg>
+</trk>
+</gpx>
